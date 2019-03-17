@@ -1,0 +1,67 @@
+Ancillary
+Ball bearing
+Bearing
+Belt
+Bucket
+Button
+Cam
+Camshaft
+Chamber
+Carriage
+Claw
+Clockwork
+Cog
+Collar
+Combustion chamber
+Component
+Compression chamber
+Connector
+Crank
+Cutout
+Cylinder
+Dial
+Drum
+Dynamo
+Feed
+Feeder
+Flywheel
+Gasket
+Gear
+Guard
+Guts
+Heat pump
+Inlet
+Intake
+Jacket
+Jaws
+Linkup
+Lock
+Motor
+Oil pan
+Pedal
+Photoelectric cell
+Pinion
+Piston
+Plunger
+Radiator
+Ram
+Ratchet
+Regulator
+Roller
+Reservoir
+Seal
+Shaft
+Shovel
+Skirt
+Skirting
+Sleeve
+Socket
+Spindle
+Sprocket
+Supercharger
+Timer
+Tooth
+Treadle
+Valve
+Vane
+Wheel
